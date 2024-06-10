@@ -1,0 +1,132 @@
+body{
+    background-color: black;
+    font-family: "Roboto", sans-serif;
+    letter-spacing: -0.01em;
+}
+.carousel-inner{
+    opacity: 0.375;
+    position: fixed;
+}
+#HeaderDiv{
+    display: block;
+    top: 265px;
+    left: 60px;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    position: fixed;
+}
+#HeaderDiv h1{
+    color: white;
+    font-weight: 700;
+    font-size: 3.25em;
+    margin: 0 0 0.55em 0;
+    line-height: 1.25em;
+}
+#HeaderDiv p{
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 1.25em;
+    line-height: 1.65em;
+    position: relative;
+    margin: 0 0 1.5em 0;
+}
+#HeaderDiv p a{
+    color: rgba(255, 255, 255, 0.5);
+    transition: color 0.2s ease-in-out,border-bottom-color 0.2s ease, color 0.2s ease;
+    border-bottom: dotted 1px;
+    text-decoration: none;
+}
+#HeaderDiv p a:hover{
+    color: #1cb495;
+}
+#Form{
+    position: fixed;
+    margin: 0 0 2em 0;
+    top: 460px;
+    left: 60px;
+}
+#Form input{
+    font-size: 16px;
+    border-radius: 6px;
+    border: solid 2px rgba(255, 255, 255, 0.35);
+    background-color: transparent;
+    padding: 0 1em;
+    width: 18em;
+    height: 2.75em
+}
+#Form input::placeholder{
+    color: rgba(255, 255, 255, 0.5);
+}
+#Form input::placeholder:hover{
+    border: solid 2px #1cb495;
+    background-color: white;
+    opacity: 1;
+}
+#Form button{
+    padding: 10px 16.5px 10px 16.5px;
+    color: white;
+    background-color: #1cb495;
+    font-size: 16px;
+    border-radius: 6px;
+    border: none;
+    margin: 0px 0px 0px 14.6px;
+}
+#Form button a{
+    text-decoration: none;
+    color: white;
+}
+#Form button:hover{
+    background-color: rgba(4, 198, 162);
+}
+#Form span{
+    color: #1cb495;
+    opacity: 0;
+}
+#FooterDiv .ul2 li{
+    display: inline-block;
+    font-size: 0.8em;
+    padding: 0;
+    margin: 0 0 2em 0;
+    padding: 0px 7px 0px 0px
+}
+#FooterDiv .ul2 .li{
+    border-right: 1px solid #999;
+}
+#FooterDiv .ul2 li a{
+    color: #999;
+    transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
+    text-decoration: none;
+    border-bottom: dotted 1px;
+}
+#FooterDiv .ul2 li a:hover{
+    font-weight: 100;
+    color: #1cb495;
+    transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
+    text-decoration: none;
+    border-bottom: dotted 1px;
+}
+#FooterDiv{
+    display: inline-block;
+    color: rgba(255, 255, 255, 0.5);
+    opacity: 0.5;
+    position: fixed;
+    left: 1.2em;
+    bottom: 0.5em;
+}
+#FooterDiv:hover{
+    opacity: 1;
+}
+.ul1>a{
+    font-size: 1.25em;
+    color: rgba(255, 255, 255, 0.5);
+    padding: 0px 16px 0px 0px;
+}
+.ul1>a:hover{
+    font-size: 1.25em;
+    color: #1cb495;
+    padding: 0px 16px 0px 0px;
+}
+.ul1{
+    margin: 0px 0px 2.2px 0px;
+}
