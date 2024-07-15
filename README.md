@@ -1,9 +1,11 @@
 # Eventually-Clone
 The "Eventually" clone project aims to replicate the design and layout of the original "Eventually theme". This project serves as a practice to improve skills in HTML and CSS, and to understand the structure and styling of modern web themes.
 # Features
-> Responsive Design : The website is likely optimized for various devices, ensuring a seamless experience for users accessing it from desktops, laptops, tablets, and smartphones.
+> Responsive Design :
+The website is likely optimized for various devices, ensuring a seamless experience for users accessing it from desktops, laptops, tablets, and smartphones.
 
-> Modern Layout : Includes a header, main content area, sidebar, and footer, closely following the original future imperfect theme.
+> Modern Layout :
+Includes a header, main content area, sidebar, and footer, closely following the original future imperfect theme.
 
 > 
 Event Showcase: The template likely provides a visually appealing way to showcase events, including details such as event titles, descriptions, dates, times, locations, and possibly speakers or performers.
