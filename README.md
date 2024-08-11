@@ -8,3 +8,20 @@ The website is likely optimized for various devices, ensuring a seamless experie
 > Modern Layout :
 
 Includes a main content area, slideshow of background images, form and footer containing different social links, closely following the original eventually theme.
+
+> Custom Styling :
+
+Uses CSS to mimic the aesthetics of the themes, including typography, colour schemes, and spacing.
+
+> HTML5 :
+
+Utilizes modern HTML5 tags to ensure semantic correctness and improve acccessibility.
+# Project Structure
+The project is organized into the following manner/structures :
+
+                Eventually/
+                |----- index.html
+                |----- CSS
+                |   |------ style.css
+                |----- images/
+                |   |----(image files)
