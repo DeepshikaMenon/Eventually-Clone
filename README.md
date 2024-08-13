@@ -20,8 +20,11 @@ Utilizes modern HTML5 tags to ensure semantic correctness and improve acccessibi
 The project is organized into the following manner/structures :
 
                 Eventually/
-                |----- index.html
-                |----- CSS
-                |   |------ style.css
                 |----- images/
                 |   |----(image files)
+                |------ eventually.css
+                |----- eventually.html
+
+1. eventually.html : The HTML file containins the structure of the website.
+2. eventually.css : The CSS file contains all the styles for the project.
+3. images/ : A directory containing images used in the project.
